@@ -1,17 +1,21 @@
 # CEGUI Gwen Skin
 ------------------
 
-This skin  is based on the default skin for the GWEN GUI System(http://code.google.com/p/gwen/).
+This skin is based on the default skin for the GWEN GUI System(http://code.google.com/p/gwen/).
 Graphics were taken from GWEN which is under the MIT License, which you can read here,
 http://www.opensource.org/licenses/mit-license.php or at the bottom of this document.
 
-This skin was ported by Chris Johnson. Contact me at chris@cjohnson.id.au if you have any
+This skin was originally ported by Chris Johnson. Contact him at chris@cjohnson.id.au if you have any
 questions. If you have any support requests please visit the CEGUI forums.
 
 This skin was migrated by Benjamin Ellenberger. Contact me at be.ellenberger@gmail.com if you have any
 questions. If you have any support requests please visit the CEGUI forums.
 
-This skin is also under the MIT License. You can read it in license.txt
+This skin is also under the MIT License. You can read it in the LICENSE file.
+
+Changelog:
+
+- Added GWEN/Label to support a commonly used widget.
 
 There are several differences between the CEGUI and GWEN skin due to the differences between
 these two systems. Some differences/issues are listed below:
