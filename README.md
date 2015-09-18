@@ -5,10 +5,15 @@ Graphics were taken from GWEN which is under the MIT License, which you can read
 http://www.opensource.org/licenses/mit-license.php or at the bottom of this document.
 
 This skin was originally ported by Chris Johnson. Contact him at chris@cjohnson.id.au if you have any
-questions. If you have any support requests please visit the CEGUI forums.
+questions regarding the original port.
 
 This skin was migrated by Benjamin Ellenberger. Contact me at be.ellenberger@gmail.com if you have any
-questions. If you have any support requests please visit the CEGUI forums.
+questions regarding the migration. 
+
+If you have any support requests please visit the CEGUI forums.
+
+Specially dedicated thread is this one here:
+http://cegui.org.uk/forum/viewtopic.php?f=9&t=5967
 
 This skin is also under the MIT License. You can read it in the LICENSE file.
 
