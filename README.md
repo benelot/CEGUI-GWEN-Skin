@@ -1,5 +1,8 @@
 # CEGUI Gwen Skin
 
+![CEGUI Gwen skin in practice](https://raw.githubusercontent.com/benelot/CEGUI-GWEN-Skin/master/gwen-skin-in-practice.png "CEGUI Gwen skin in practice")
+
+
 This skin is based on the default skin for the GWEN GUI System(http://code.google.com/p/gwen/).
 Graphics were taken from GWEN which is under the MIT License, which you can read here,
 http://www.opensource.org/licenses/mit-license.php or at the bottom of this document.
